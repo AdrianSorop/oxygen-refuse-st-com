@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xt:extensions xmlns:xt="http://www.oxygenxml.com/ns/extension"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
+    <xt:extension xmlns:xt="http://www.oxygenxml.com/ns/extension" 
+        id="oxygen-refuse-st-com">
+        <xt:location href="oxygen-refuse-st-com-1.0.0-plugin.jar"/>
+        <xt:version>1.0.0</xt:version>
+        <xt:oxy_version>22.0+</xt:oxy_version>
+        <xt:type>plugin</xt:type>
+        <xt:author>Syncro Soft</xt:author>
+        <xt:name>Automatically refuse st.com</xt:name>
+        <xt:description>
+            <html xmlns="http://www.w3.org/1999/xhtml">
+                <body>
+                    <div>
+                        <h1>Automatically refuse connections to st.com</h1>
+                    </div>
+                </body>
+            </html>
+        </xt:description>
+        <xt:license>
+            <![CDATA[
+        (c) Syncro Soft SRL, All rights reserved.
+This Plug-In is part of the Oxygen XML Software and, as such, is part of the License Agreement governing the Oxygen XML Software.
+]]></xt:license>
+    </xt:extension>
+</xt:extensions>
